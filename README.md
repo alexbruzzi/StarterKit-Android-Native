@@ -10,7 +10,7 @@ This kit covers an app published on Android platform and uses GCM for push notif
 
 ## Download ##
 
-[Download](downloads/OctoAPI_android.zip) the starter kit from here. This starter kit contains a working sample of code that takes all permissions from users, and sends appropriate API calls at appropriate times.
+Download the starter kit from here. This starter kit contains a working sample of code that takes all permissions from users, and sends appropriate API calls at appropriate times.
 
 If you already have an app, chances are most of the steps would have been already done. However, it is advised to go through the document and remove any inconsistencies.
 
@@ -491,4 +491,4 @@ PushNotificationCall beaconcall = new PushNotificationCall();
 String[] param = new String[]{};
 beaconcall.execute(param);
 
-I```
+```
